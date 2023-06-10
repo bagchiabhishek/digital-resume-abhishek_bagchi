@@ -91,6 +91,7 @@ li{
     justify-content: space-between;
     column-gap: 1em;
     flex-wrap: wrap;
+    row-gap: 1em;
 }
 
 #socials--list a{
